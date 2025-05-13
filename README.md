@@ -58,7 +58,9 @@ Sin embargo esta hibridación plantea preguntas éticas en torno a la creación 
 
 ### 6. Referencias bibliográficas
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
+- Pérez-Montoro, M. (2010). La visualización de la información. Editorial UOC.
 - Character.ai. (2023). *Character.AI - Chat with AI Characters*. https://beta.character.ai/
+- Floridi, L., & Cowls, J. (2019). A Unified Framework of Five Principles for AI in Society. Harvard Data Science Review. https://doi.org/10.1162/99608f92.8cd550d1
 
 ## Caso 2: Twitch – Hibridación entre televisión en directo, red social y plataforma participativa
 
@@ -109,8 +111,12 @@ Desde una mirada crítica, Twitch también plantea preguntas sobre la precarizac
 ### 6. Referencias bibliográficas
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
 - Twitch Interactive, Inc. (2023). *Twitch.tv*. https://www.twitch.tv/
+- Sjöblom, M., Törhönen, M., Hamari, J., & Macey, J. (2017). The Ingredients of Twitch Streaming: Affordances of Game Streams. Computers in Human Behavior, 92, 20–28. https://doi.org/10.1016/j.chb.2018.10.012
+- Resnick, M. (2007). Sembrando las semillas para una sociedad más creativa. Eduteka. https://eduteka.icesi.edu.co/articulos/ResnickCreatividad
 
 
 ## Conclusión
 
 A través del análisis de Character.ai y Twitch, se evidencia cómo la **hibridación de medios** en la era digital trasciende la simple suma de formatos para dar lugar a **nuevas gestalts mediáticas**, tal como plantea Lev Manovich (2013). Ambos casos ilustran con claridad cómo el metamedio ordenador permite **fusionar técnicas, lenguajes y experiencias previas** con estructuras algorítmicas, generando plataformas que reconfiguran radicalmente la forma en la que interactuamos, creamos y consumimos contenido.
+
+Estos ejemplos no solo encajan perfectamente en una hipotética segunda edición de El software toma el mando, sino que también confirman que la evolución del software es inseparable de su capacidad para remezclar, mutar y fusionar medios preexistentes, dando forma a una cultura digital en constante transformación.
