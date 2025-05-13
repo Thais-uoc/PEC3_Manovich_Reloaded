@@ -31,9 +31,10 @@ Character.ai responde exactamente a esta descripción, ya que fusiona elementos 
 ### 3. Aplicación de los principios de Manovich
 Manovich identifica cinco principios fundamentales del nuevo lenguaje de los medios digitales, varios de los cuales están presentes en este caso:
 
-**- Representación digital:** Todo el contenido generado (mensajes, personalidad, instrucciones) es codificado como datos binarios manipulables por el sistema.
 
-**- Modularidad:** Cada personaje puede funcionar como un módulo independiente, editable y reutilizable, permitiendo al usuario construir desde cero o adaptar modelos existentes.
+- **Representación digital:** Todo el contenido generado (mensajes, personalidad, instrucciones) es codificado como datos binarios manipulables por el sistema.
+
+-**Modularidad:** Cada personaje puede funcionar como un módulo independiente, editable y reutilizable, permitiendo al usuario construir desde cero o adaptar modelos existentes.
 
 **- Automatización:** El sistema genera respuestas y adapta el estilo de conversación de forma automática a partir del aprendizaje supervisado y no supervisado.
 
