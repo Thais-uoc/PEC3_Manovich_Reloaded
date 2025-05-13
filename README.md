@@ -5,7 +5,7 @@
 
 ## Introducción
 
-Los medios digitales actuales ya no se limitan a replicar funciones del pasado: los reinventan, los mezclan y los transforman. Este texto analiza dos ejemplos contemporáneos que representan esa fusión de lenguajes, interfaces y lógicas mediadas por software. A través del estudio de Character.ai y Twitch, se explora cómo la hibridación de medios redefine nuestra relación con la narrativa, la interacción y el consumo cultural, dando lugar a experiencias inéditas que solo pueden entenderse desde la perspectiva del metamedio ordenador.
+Los medios digitales actuales ya no se limitan a replicar funciones del pasado: los reinventan, los mezclan y los transforman. En este informe analizo dos ejemplos contemporáneos que representan esa fusión de lenguajes, interfaces y lógicas mediadas por software. A través del estudio de Character.ai y Twitch, se explora cómo la hibridación de medios redefine nuestra relación con la narrativa, la interacción y el consumo cultural, dando lugar a experiencias inéditas que solo pueden entenderse desde la perspectiva del metamedio ordenador.
 
 
 ## Caso 1: Character.ai – Inteligencia artificial y narrativas interactivas
@@ -16,7 +16,7 @@ Character.ai es una plataforma digital interactiva lanzada en 2022, basada en mo
 La interfaz simula un chat, lo que facilita la interacción. Sin embargo, a diferencia de otros chatbots tradicionales, el diseño está orientado a fomentar la creatividad, el juego de rol y la simulación narrativa. Cada personaje puede tener una "personalidad" única, y las conversaciones se adaptan al tono, estilo y contexto que el usuario construye. En este entorno, el usuario es autor, interlocutor y espectador, lo que refuerza el carácter híbrido del medio.
 
 ### 2. Hibridación de medios en Character.ai
-Lev Manovich (2013) define la hibridación como “el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos” (p. 201), y afirma que esta se manifiesta cuando “las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (p. 183).
+En el libro 'El software toma el mando' de Lev Manovich (2013) vemos que define la hibridación como “el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos” (p. 201), y afirma que esta se manifiesta cuando “las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (p. 183).
 
 Character.ai responde exactamente a esta descripción, ya que fusiona elementos de:
 
@@ -26,7 +26,7 @@ Character.ai responde exactamente a esta descripción, ya que fusiona elementos 
 
 - Interfaz de mensajería (propia de medios sociales y apps como WhatsApp o Discord).
 
-- La experiencia resultante no es simplemente la suma de sus partes, sino una nueva forma coherente de medio, que permite un tipo de representación conversacional algorítmica y adaptativa nunca antes posible.
+La experiencia resultante no es simplemente la suma de sus partes, sino una nueva forma coherente de medio, que permite un tipo de representación conversacional algorítmica y adaptativa nunca antes posible.
 
 ### 3. Aplicación de los principios de Manovich
 Manovich identifica cinco principios fundamentales del nuevo lenguaje de los medios digitales, varios de los cuales están presentes en este caso:
@@ -34,9 +34,9 @@ Manovich identifica cinco principios fundamentales del nuevo lenguaje de los med
 
 - **Representación digital:** Todo el contenido generado (mensajes, personalidad, instrucciones) es codificado como datos binarios manipulables por el sistema.
 
--**Modularidad:** Cada personaje puede funcionar como un módulo independiente, editable y reutilizable, permitiendo al usuario construir desde cero o adaptar modelos existentes.
+- **Modularidad:** Cada personaje puede funcionar como un módulo independiente, editable y reutilizable, permitiendo al usuario construir desde cero o adaptar modelos existentes.
 
--**Automatización:** El sistema genera respuestas y adapta el estilo de conversación de forma automática a partir del aprendizaje supervisado y no supervisado.
+- **Automatización:** El sistema genera respuestas y adapta el estilo de conversación de forma automática a partir del aprendizaje supervisado y no supervisado.
 
 - **Variabilidad:** No hay una narrativa lineal. Cada conversación es distinta, determinada por las elecciones del usuario, permitiendo infinitas combinaciones.
 
@@ -66,19 +66,19 @@ Sin embargo esta hibridación plantea preguntas éticas en torno a la creación 
 
 Twitch, la plataforma de streaming en directo propiedad de Amazon, ha revolucionado el modo en que consumimos contenido audiovisual, especialmente en el ámbito de los videojuegos, la música, los podcasts y los eventos en vivo. Lo que comenzó como una plataforma para retransmitir partidas se ha transformado en un espacio híbrido que mezcla televisión en directo, redes sociales, comunidades interactivas y plataformas de monetización creativa.
 
-Este caso representa un ejemplo de hibridación especialmente interesante porque no solo integra lenguajes y estructuras de medios tradicionales, sino que añade elementos propios del software y de la lógica algorítmica de la Web 2.0. Tal como plantea Manovich (2013), la hibridación se produce cuando “los principios y técnicas de medios previamente separados se funden a través del software en una experiencia coherente e integrada” (p. 186). Twitch no solo cumple con esta definición, sino que expande la noción misma de lo que entendemos por “medio”.
+Este caso representa un ejemplo de hibridación especialmente interesante porque no solo integra lenguajes y estructuras de medios tradicionales, sino que añade elementos propios del software y de la lógica algorítmica de la Web 2.0. tal como plantea Manovich (2013), la hibridación se produce cuando “los principios y técnicas de medios previamente separados se funden a través del software en una experiencia coherente e integrada” (p. 186). Twitch no solo cumple con esta definición, sino que expande la noción misma de lo que entendemos por “medio”.
 
 ### 2. Hibridación de medios en Twitch
 
 En Twitch confluyen múltiples capas de medios y funciones, lo que lo convierte en un sistema híbrido complejo:
 
--**Televisión en directo:** La lógica de la emisión continua, el canal y el espectador pasivo se remedia en una plataforma donde cualquier persona puede convertirse en emisor.
+- **Televisión en directo:** La lógica de la emisión continua, el canal y el espectador pasivo se remedia en una plataforma donde cualquier persona puede convertirse en emisor.
 
--**Red social:** Los streamers mantienen una comunidad, con seguidores, chat en vivo, reacciones, suscripciones, raids y emoticonos personalizados.
+- **Red social:** Los streamers mantienen una comunidad, con seguidores, chat en vivo, reacciones, suscripciones, raids y emoticonos personalizados.
 
--**Economía creativa:** Incorpora elementos de monetización participativa como los "bits", suscripciones de pago, donaciones o publicidad integrada, permitiendo que los propios usuarios financien el contenido que consumen.
+- **Economía creativa:** Incorpora elementos de monetización participativa como los "bits", suscripciones de pago, donaciones o publicidad integrada, permitiendo que los propios usuarios financien el contenido que consumen.
 
--**Gamificación:** Con insignias, niveles de participación, recompensas por fidelidad y funciones como los puntos del canal, la interfaz se transforma en un sistema lúdico en sí mismo.
+- **Gamificación:** Con insignias, niveles de participación, recompensas por fidelidad y funciones como los puntos del canal, la interfaz se transforma en un sistema lúdico en sí mismo.
 
 Twitch representa una fusión plena entre espectador y actor, entre lo pasivo y lo activo, entre la televisión y el juego. Este entrelazamiento mediado por software da lugar a una experiencia nueva que no puede reducirse a ninguno de sus componentes originales.
 
@@ -86,15 +86,15 @@ Twitch representa una fusión plena entre espectador y actor, entre lo pasivo y 
 
 Lev Manovich (2013) identifica en el software digital cinco principios fundamentales. En Twitch se pueden observar todos ellos con claridad:
 
--**Modularidad:** Cada canal es una unidad modular independiente, pero interoperable con el sistema completo. Los overlays, widgets y extensiones también son módulos reutilizables y personalizables.
+- **Modularidad:** Cada canal es una unidad modular independiente, pero interoperable con el sistema completo. Los overlays, widgets y extensiones también son módulos reutilizables y personalizables.
 
--**Variabilidad:** La experiencia cambia en cada canal, stream, interacción o evento. El contenido no es fijo ni lineal, y se adapta en tiempo real a las decisiones del streamer y del público.
+- **Variabilidad:** La experiencia cambia en cada canal, stream, interacción o evento. El contenido no es fijo ni lineal, y se adapta en tiempo real a las decisiones del streamer y del público.
 
--**Automatización:** Los algoritmos de Twitch gestionan la visibilidad, la moderación del chat, los clips automáticos, y las recomendaciones personalizadas para cada usuario.
+- **Automatización:** Los algoritmos de Twitch gestionan la visibilidad, la moderación del chat, los clips automáticos, y las recomendaciones personalizadas para cada usuario.
 
--**Transcodificación:** La actividad social, los gustos y comportamientos de los usuarios son transformados en datos computacionales que el sistema utiliza para recomendar, monetizar y optimizar.
+- **Transcodificación:** La actividad social, los gustos y comportamientos de los usuarios son transformados en datos computacionales que el sistema utiliza para recomendar, monetizar y optimizar.
 
--**Interfaz como metamedio:** Twitch se convierte en una plataforma contenedora de múltiples formas de expresión, desde video en directo hasta texto, emojis, sonidos, votaciones y extensiones interactivas, funcionando como un metamedio en el sentido más amplio.
+- **Interfaz como metamedio:** Twitch se convierte en una plataforma contenedora de múltiples formas de expresión, desde video en directo hasta texto, emojis, sonidos, votaciones y extensiones interactivas, funcionando como un metamedio en el sentido más amplio.
 
 ### 4. ¿Qué tipo de hibridación es Twitch?
 
