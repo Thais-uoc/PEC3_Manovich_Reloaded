@@ -36,11 +36,11 @@ Manovich identifica cinco principios fundamentales del nuevo lenguaje de los med
 
 -**Modularidad:** Cada personaje puede funcionar como un módulo independiente, editable y reutilizable, permitiendo al usuario construir desde cero o adaptar modelos existentes.
 
-**- Automatización:** El sistema genera respuestas y adapta el estilo de conversación de forma automática a partir del aprendizaje supervisado y no supervisado.
+-**Automatización:** El sistema genera respuestas y adapta el estilo de conversación de forma automática a partir del aprendizaje supervisado y no supervisado.
 
-**- Variabilidad:** No hay una narrativa lineal. Cada conversación es distinta, determinada por las elecciones del usuario, permitiendo infinitas combinaciones.
+- **Variabilidad:** No hay una narrativa lineal. Cada conversación es distinta, determinada por las elecciones del usuario, permitiendo infinitas combinaciones.
 
-**- Transcodificación:** Las instrucciones humanas (textuales y simbólicas) son traducidas al lenguaje computacional, lo que permite que la IA reinterprete, genere y simule comportamientos conversacionales.
+- **Transcodificación:** Las instrucciones humanas (textuales y simbólicas) son traducidas al lenguaje computacional, lo que permite que la IA reinterprete, genere y simule comportamientos conversacionales.
 
 Además, el concepto de interfaz como metamedio se hace evidente en la elección de una interfaz de chat como medio universal para esta interacción híbrida.
 
@@ -72,13 +72,13 @@ Este caso representa un ejemplo de hibridación especialmente interesante porque
 
 En Twitch confluyen múltiples capas de medios y funciones, lo que lo convierte en un sistema híbrido complejo:
 
-**-Televisión en directo:** La lógica de la emisión continua, el canal y el espectador pasivo se remedia en una plataforma donde cualquier persona puede convertirse en emisor.
+-**Televisión en directo:** La lógica de la emisión continua, el canal y el espectador pasivo se remedia en una plataforma donde cualquier persona puede convertirse en emisor.
 
-**-Red social:** Los streamers mantienen una comunidad, con seguidores, chat en vivo, reacciones, suscripciones, raids y emoticonos personalizados.
+-**Red social:** Los streamers mantienen una comunidad, con seguidores, chat en vivo, reacciones, suscripciones, raids y emoticonos personalizados.
 
-**-Economía creativa:** Incorpora elementos de monetización participativa como los "bits", suscripciones de pago, donaciones o publicidad integrada, permitiendo que los propios usuarios financien el contenido que consumen.
+-**Economía creativa:** Incorpora elementos de monetización participativa como los "bits", suscripciones de pago, donaciones o publicidad integrada, permitiendo que los propios usuarios financien el contenido que consumen.
 
-**-Gamificación:** Con insignias, niveles de participación, recompensas por fidelidad y funciones como los puntos del canal, la interfaz se transforma en un sistema lúdico en sí mismo.
+-**Gamificación:** Con insignias, niveles de participación, recompensas por fidelidad y funciones como los puntos del canal, la interfaz se transforma en un sistema lúdico en sí mismo.
 
 Twitch representa una fusión plena entre espectador y actor, entre lo pasivo y lo activo, entre la televisión y el juego. Este entrelazamiento mediado por software da lugar a una experiencia nueva que no puede reducirse a ninguno de sus componentes originales.
 
@@ -86,15 +86,15 @@ Twitch representa una fusión plena entre espectador y actor, entre lo pasivo y 
 
 Lev Manovich (2013) identifica en el software digital cinco principios fundamentales. En Twitch se pueden observar todos ellos con claridad:
 
-**-Modularidad:** Cada canal es una unidad modular independiente, pero interoperable con el sistema completo. Los overlays, widgets y extensiones también son módulos reutilizables y personalizables.
+-**Modularidad:** Cada canal es una unidad modular independiente, pero interoperable con el sistema completo. Los overlays, widgets y extensiones también son módulos reutilizables y personalizables.
 
-**-Variabilidad:** La experiencia cambia en cada canal, stream, interacción o evento. El contenido no es fijo ni lineal, y se adapta en tiempo real a las decisiones del streamer y del público.
+-**Variabilidad:** La experiencia cambia en cada canal, stream, interacción o evento. El contenido no es fijo ni lineal, y se adapta en tiempo real a las decisiones del streamer y del público.
 
-**-Automatización:** Los algoritmos de Twitch gestionan la visibilidad, la moderación del chat, los clips automáticos, y las recomendaciones personalizadas para cada usuario.
+-**Automatización:** Los algoritmos de Twitch gestionan la visibilidad, la moderación del chat, los clips automáticos, y las recomendaciones personalizadas para cada usuario.
 
-**-Transcodificación:** La actividad social, los gustos y comportamientos de los usuarios son transformados en datos computacionales que el sistema utiliza para recomendar, monetizar y optimizar.
+-**Transcodificación:** La actividad social, los gustos y comportamientos de los usuarios son transformados en datos computacionales que el sistema utiliza para recomendar, monetizar y optimizar.
 
-**-Interfaz como metamedio:** Twitch se convierte en una plataforma contenedora de múltiples formas de expresión, desde video en directo hasta texto, emojis, sonidos, votaciones y extensiones interactivas, funcionando como un metamedio en el sentido más amplio.
+-**Interfaz como metamedio:** Twitch se convierte en una plataforma contenedora de múltiples formas de expresión, desde video en directo hasta texto, emojis, sonidos, votaciones y extensiones interactivas, funcionando como un metamedio en el sentido más amplio.
 
 ### 4. ¿Qué tipo de hibridación es Twitch?
 
