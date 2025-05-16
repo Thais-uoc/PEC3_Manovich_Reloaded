@@ -16,7 +16,7 @@ Character.ai es una plataforma digital interactiva lanzada en 2022, basada en mo
 La interfaz simula un chat, lo que facilita la interacción. Sin embargo, a diferencia de otros chatbots tradicionales, el diseño está orientado a fomentar la creatividad, el juego de rol y la simulación narrativa. Cada personaje puede tener una "personalidad" única, y las conversaciones se adaptan al tono, estilo y contexto que el usuario construye. En este entorno, el usuario es autor, interlocutor y espectador, lo que refuerza el carácter híbrido del medio.
 
 ### 2. Hibridación de medios en Character.ai
-En el libro 'El software toma el mando' de Lev Manovich (2013) vemos que define la hibridación como “el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos” (p. 201), y afirma que esta se manifiesta cuando “las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (p. 183).
+En el libro 'El software toma el mando' de Lev Manovich (2013) vemos que define la hibridación como “el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos” (p. 212), y afirma que esta se manifiesta cuando “las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (p. 193).
 
 Character.ai responde exactamente a esta descripción, ya que fusiona elementos de:
 
@@ -68,7 +68,7 @@ Sin embargo esta hibridación plantea preguntas éticas en torno a la creación 
 
 Twitch, la plataforma de streaming en directo propiedad de Amazon, ha revolucionado el modo en que consumimos contenido audiovisual, especialmente en el ámbito de los videojuegos, la música, los podcasts y los eventos en vivo. Lo que comenzó como una plataforma para retransmitir partidas se ha transformado en un espacio híbrido que mezcla televisión en directo, redes sociales, comunidades interactivas y plataformas de monetización creativa.
 
-Este caso representa un ejemplo de hibridación especialmente interesante porque no solo integra lenguajes y estructuras de medios tradicionales, sino que añade elementos propios del software y de la lógica algorítmica de la Web 2.0. tal como plantea Manovich (2013), la hibridación se produce cuando “los principios y técnicas de medios previamente separados se funden a través del software en una experiencia coherente e integrada” (p. 186). Twitch no solo cumple con esta definición, sino que expande la noción misma de lo que entendemos por “medio”.
+Este caso representa un ejemplo de hibridación especialmente interesante porque no solo integra lenguajes y estructuras de medios tradicionales, sino que añade elementos propios del software y de la lógica algorítmica de la Web 2.0. tal como plantea Manovich (2013), la hibridación se produce cuando los medios “se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.” (p. 184). Twitch no solo cumple con esta definición, sino que expande la noción misma de lo que entendemos por “medio”.
 
 ### 2. Hibridación de medios en Twitch
 
